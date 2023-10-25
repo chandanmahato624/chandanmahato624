@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m Chandan.<br>👀 I’m interested in software development.<br>🌱 I’m currently pursuing MCA.<br>💞️ I’m looking to collaborate on software  or WEB related project<br>📫 How to reach me : Linkedin: chandan624
 
 
