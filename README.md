@@ -1,5 +1,7 @@
 ## About Me:
-👋 Hi, I’m Chandan.<br>👀 I’m interested in software development.<br>🌱 I’m currently pursuing MCA.<br>💞️ I’m looking to collaborate on software  or WEB related project<br>📫 How to reach me : Linkedin: chandan624
+👋 Hi, I’m Chandan.<br> an aspiring software developer currently pursuing my Master's in Computer Applications (MCA). 👀 My passion lies in the realm of software development, and I'm eager to contribute to innovative projects in the software and web domains. 💞️ Open to collaboration, I am excited about the prospect of working together on projects that push the boundaries of technology. 🌱 Let's connect and create something extraordinary!
+
+📫 Reach out to me on LinkedIn: chandan624. Looking forward to engaging with like-minded individuals and building the future of software together! 🚀
 
 
 ## Socials:
